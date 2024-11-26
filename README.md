@@ -1,1 +1,1 @@
-# Password-generator-
+The Password Generator is a Python-based tool that creates secure and random passwords. It offers customizable options to suit various security needs, ensuring that the generated passwords are both strong and user-specific.
